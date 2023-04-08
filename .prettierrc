@@ -1,11 +1,19 @@
 {
-  "printWidth": 80,
-  "tabWidth": 2,
+  "tabWidth": 4,
   "useTabs": true,
   "semi": true,
   "singleQuote": true,
   "trailingComma": "none",
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
-  "fluid": false
+  "fluid": false,
+
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
 }
