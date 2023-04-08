@@ -1,27 +1,24 @@
 {
-  "name": "arkham-asteroids",
-  "version": "0.8.0",
-  "description": null,
-  "main": "index.html",
-  "scripts": {
-    "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
-  },
-  "keywords": [
-    "js13k",
-    "game"
-  ],
-  "author": "ArkhamCookie",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
-  },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
-  "devDependencies": {
-    "serve": "^11.2.0"
-  }
+	"name": "arkhamasteroids",
+	"version": "1.0.0",
+	"description": "A simple Asteroids clone.",
+	"main": "index.html",
+	"scripts": {
+		"start": "serve",
+		"build": "echo This is a static template, there is no bundler or bundling involved!"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ArkhamCookie/ArkhamAsteroids.git"
+	},
+	"keywords": [],
+	"author": "ArkhamCookie",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ArkhamCookie/ArkhamAsteroids/issues"
+	},
+	"homepage": "https://github.com/ArkhamCookie/ArkhamAsteroids#readme",
+	"devDependencies": {
+		"serve": "^11.2.0"
+	}
 }
