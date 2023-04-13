@@ -1,6 +1,8 @@
 # ArkhamAsteroids
 
-A simple Asteroids clone to start learning [Kontra.js](https://straker.github.io/kontra/) and possibly as a last minute entry to [Gamedev.js Jam 2023](https://gamedevjs.com/jam/2023/).
+A simple [Asteroids](https://wikipedia.org/wiki/Asteroids_(video_game)) clone to start learning [Kontra.js](https://straker.github.io/kontra/) and an entry for [Gamedev.js Jam 2023](https://gamedevjs.com/jam/2023/).
+
+For the sake of transparency, I mixed up the dates a bit and might have started before the jam technically starts.  Honestly, I'm not 100% sure what counts as "starting" and what doesn't.
 
 ---
 
