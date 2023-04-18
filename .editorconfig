@@ -10,5 +10,5 @@ charset = uft-8
 trim_trailing_newline = true
 insert_final_newline = true
 
-[*.{json}]
+[*.{json,yml,yaml}]
 indent_size = 2
